@@ -1,4 +1,4 @@
-versionCode=55
-versionName=2.2.1
-message=새 버전이 나왔습니다.\n업데이트 확인 주소를 babypepper/call-teum으로 바꾸고, 후원 버튼과 번호 저장 개선을 반영했습니다.
-apkUrl=https://github.com/babypepper/call-teum/releases/download/v2.2.1/%EC%A0%84%ED%99%94%ED%8B%88%ED%8B%88v2.2.1.apk
+versionCode=56
+versionName=2.2.2
+message=새 버전이 나왔습니다.\n자동수신을 설정한 번호로 제한하고, 반려폰 산책은 오늘 실제 통화기록이 없으면 계속 재시도하도록 바꿨습니다.
+apkUrl=https://github.com/babypepper/call-teum/releases/download/v2.2.2/%EC%A0%84%ED%99%94%ED%8B%88%ED%8B%88v2.2.2.apk
